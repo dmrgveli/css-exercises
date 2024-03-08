@@ -1,0 +1,14 @@
+.two,
+.three {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.three {
+    background-color: yellow;
+}
+.two {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
